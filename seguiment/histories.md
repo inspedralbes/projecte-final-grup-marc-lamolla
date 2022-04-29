@@ -29,3 +29,11 @@
 *** vull poder gestionar els usuaris***
 *** per poder donar d'alta o de baixa a diferents usuaris***
 
+*** Com a usuari registrat***
+*** vull poder visualitzar un raking***
+*** per poder saber sobre la meva puntuació***
+
+*** Com a administrador***
+*** vull poder otorgar recompenses als usuaris que estàn al top***
+*** per recompensar-los per l'esforç***
+
